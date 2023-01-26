@@ -1,0 +1,18 @@
+# def func(x, ans):
+#         if(x==0):
+#              return 0    
+#         else:
+#             return func(x-1, x+ans)  
+# print(func(2,0))
+
+# y = 8
+# z = lambda x : x * y
+# print (z(8))
+
+
+
+
+
+
+
+                   
